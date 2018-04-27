@@ -1,0 +1,9 @@
+# See https://help.github.com/ignore-files/ for more about ignoring files.
+
+# binaries
+/bin
+
+# misc
+.DS_Store
+.classpath
+.project
